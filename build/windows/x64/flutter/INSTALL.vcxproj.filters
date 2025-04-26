@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Asma\Downloads\Telegram Desktop\my_flutter_app\build\windows\x64\CMakeFiles\01c19d4e990a35ec43904fbef1dd56bc\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{6CB24CBA-F9B2-351F-AAA1-96C1EC3CFAF4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

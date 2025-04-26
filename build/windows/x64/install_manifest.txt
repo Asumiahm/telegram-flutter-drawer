@@ -1,0 +1,10 @@
+C:/Users/Asma/Downloads/Telegram Desktop/my_flutter_app/build/windows/x64/runner/Debug/data/icudtl.dat
+C:/Users/Asma/Downloads/Telegram Desktop/my_flutter_app/build/windows/x64/runner/Debug/flutter_windows.dll
+C:/Users/Asma/Downloads/Telegram Desktop/my_flutter_app/build/windows/x64/runner/Debug/data/flutter_assets/AssetManifest.bin
+C:/Users/Asma/Downloads/Telegram Desktop/my_flutter_app/build/windows/x64/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/Users/Asma/Downloads/Telegram Desktop/my_flutter_app/build/windows/x64/runner/Debug/data/flutter_assets/FontManifest.json
+C:/Users/Asma/Downloads/Telegram Desktop/my_flutter_app/build/windows/x64/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/Users/Asma/Downloads/Telegram Desktop/my_flutter_app/build/windows/x64/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/Users/Asma/Downloads/Telegram Desktop/my_flutter_app/build/windows/x64/runner/Debug/data/flutter_assets/NativeAssetsManifest.json
+C:/Users/Asma/Downloads/Telegram Desktop/my_flutter_app/build/windows/x64/runner/Debug/data/flutter_assets/NOTICES.Z
+C:/Users/Asma/Downloads/Telegram Desktop/my_flutter_app/build/windows/x64/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag
